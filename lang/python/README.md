@@ -32,23 +32,6 @@ Python代码的执行完全依赖解释器的性能，而且由于Python的灵�
 
 Python语言的性能问题是其比较明显的问题，在某些业务场景这个问题并不突出，但是在某些对程序性能要求比较高的业务场景，这个问题就比较突出，尤其是当前盛行微服务，服务拆分越来越多，服务的性能会受到很多方面的影响，磁盘I/O，网络I/O，单个实例的并发等。
 
-## 数据类型
-
-### list
-
-当你需要复制一个list的时候，用赋值的方法赋值给另外一变量，只会把引用指向新的变量，实际指向的内存地址是一样的，当你改变其值的时候，2个变量都会改变：
-
-```
-$ a = [1,2,3]
-$ b = a
-$ a.remove(2)
-$ print a, b
-$ [1,3] [1,3]
-$ print a==b
-$ true
-```
-有几种方法复制一个list，可参考[How to clone or copy a list?](https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list)
-
 ## 参考
 
 * [wikipedia](https://en.wikipedia.org/wiki/Python_\(programming_language\))
