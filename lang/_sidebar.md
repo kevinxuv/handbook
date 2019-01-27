@@ -1,3 +1,4 @@
 * [语言](/lang/)
-  * [Python](/lang/python.md)
-  * [Java](/lang/java.md)
+  * [Python](/lang/python/)
+    * [Guide](/lang/python/guide.md)
+  * [Java](/lang/java/)
