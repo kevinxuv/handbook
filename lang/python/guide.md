@@ -29,20 +29,20 @@ python的经典书籍有很多
 
 * [flask](https://github.com/pallets/flask), 非常优秀的实现了WSGI协议的web framwork。
 * [django](https://github.com/django/django), 非常流行的Python web framwork, 社区很强大。
-* [tornad](https://github.com/tornadoweb/tornado), 实现了nonblocking 网络I/O实现的Python网络库。
+* [tornad](https://github.com/tornadoweb/tornado), 实现了nonblocking 网络I/O实现的Python网络库。
 * [requests](https://github.com/requests/requests), python http client事实上的标准库。
-* [gunicorn](https://github.com/benoitc/gunicorn), 非常强大的WSGI app container，借鉴与ruby的Unicorn项目。
+* [gunicorn](https://github.com/benoitc/gunicorn), 非常强大的WSGI app container，借鉴于ruby的Unicorn项目。
 * [sentry](https://github.com/getsentry/sentry), 非常强大的用于问题跟踪的工具。
 
 ## Specification
 
-* [PEP8](https://www.python.org/dev/peps/pep-0008/) Python官方的规范里讲的很清楚。
+* [PEP8](https://www.python.org/dev/peps/pep-0008/) 作为Python官方的规范，讲的很清楚。
 * [Google python style](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)，google的编码规范也是非常值得参考的。
 
 ## Community
 
-我想大部分人，遇到问题应该首先会选择Google，一般语言的问题的解答[Stackoverflow](https://stackoverflow.com/)的搜索排名一般比较靠前，而且对于新手，大部分问题都可以Stackoverflow上找到答案，顺便你可以没事看看其他同学有关Python的提问[Stackoverflow python](https://stackoverflow.com/questions/tagged/python)
+我想大部分人，遇到问题应该首先会选择Google，一般语言问题的解答[Stackoverflow](https://stackoverflow.com/)在Google的搜索排名中一般比较靠前，而且对于新手，大部分问题都可以从Stackoverflow上找到答案，顺便你可以没事看看其他同学有关Python的提问[Stackoverflow python](https://stackoverflow.com/questions/tagged/python)
 
 ## 总结
 
-无论学习哪种语言，个人觉得比较好的方法是：Read more good books and awsome open projects, practice more and google more.
+无论学习哪种语言，个人觉得比较好的方法是：Read more good books and awsome open source, practice more and google more.
