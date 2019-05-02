@@ -45,4 +45,4 @@ python的经典书籍有很多
 
 ## 总结
 
-无论学习哪种语言，个人觉得比较好的方法是：Read more good books and awsome open source, practice more and google more.
+无论学习哪种语言，个人觉得比较好的方法是：Read more good books and awesome open source, practice more and google more.
