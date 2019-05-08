@@ -27,7 +27,7 @@ python的经典书籍有很多
 
 * [flask](https://github.com/pallets/flask), 非常优秀的实现了WSGI协议的web framwork。
 * [django](https://github.com/django/django), 非常流行的Python web framwork, 社区很强大。
-* [tornad](https://github.com/tornadoweb/tornado), 实现了nonblocking 网络I/O实现的Python网络库。
+* [tornado](https://github.com/tornadoweb/tornado), 实现了nonblocking 网络I/O实现的Python网络库。
 * [requests](https://github.com/requests/requests), python http client事实上的标准库。
 * [gunicorn](https://github.com/benoitc/gunicorn), 非常强大的WSGI app container，借鉴于ruby的Unicorn项目。
 * [sentry](https://github.com/getsentry/sentry), 非常强大的用于问题跟踪的工具。

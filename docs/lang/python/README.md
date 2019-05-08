@@ -1,6 +1,6 @@
 # Python
 
-python是一门解释性语言，弱类型，动态语言，我们可以先看看Python能做什么 [fullstackpython](https://www.fullstackpython.com/table-of-contents.html)
+python是一门解释性语言，强类型，动态语言，我们可以先看看Python能做什么 [fullstackpython](https://www.fullstackpython.com/table-of-contents.html)
 
 ## 优点
 
