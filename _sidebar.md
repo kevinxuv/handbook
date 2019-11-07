@@ -1,10 +1,8 @@
 - [首页](README.md)
 
-- [操作系统](os/README.md)
+- [Linux](linux/README.md)
 
-    - [系统管理](os/admin.md)
-    - [centos](os/centos.md)
-    - [容器](os/docker/README.md)
+    - [工具](linux/tools/README.md)
 
 - [计算机网络](network/README.md)
 
