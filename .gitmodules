@@ -1,0 +1,3 @@
+[submodule "linux/tool"]
+	path = linux/tool
+	url = git@github.com:me115/linuxtools_rst.git
