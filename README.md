@@ -1,3 +1,3 @@
 # Handbook
 
-guide for programming language or devops etc.
+User guide for programming language and devops etc.
